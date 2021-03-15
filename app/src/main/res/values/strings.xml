@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Mera Allah</string>
+    <string name="_home">Home</string>
+    <string name="menu">Main Menu</string>
+    <string name="_Allahname">Asma Ul Husna</string>
+
+
+    <!--TextViews-->
+    <string name="nameOfAllah">اَللَّه</string>
+    <string name="bismiAllah">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</string>
+    <string name="meaningOfAyat">In the name of Allah,the Entirely Merciful, the Especially Merciful. [1:1]</string>
+    <string name="asma_Ul_Husna">Asma Ul Husna</string>
+    <string name="asma_Ul_Raool">Asma Ul Rasool</string>
+
+    <!--Buttons-->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="play_audio">play</string>
+    <string name="title_activity_nav">Nav</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
